@@ -1,0 +1,13 @@
+.icon-envelope-button {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.email-me-button-container {
+  display: flex;
+  align-items: center;
+}
+
+#mainNav {
+  position: absolute;
+}
